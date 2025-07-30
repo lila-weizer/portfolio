@@ -1,4 +1,3 @@
-# portfolio
 # 🎯 Lila Weizer – Data, Strategy, and Product Portfolio
 
 Welcome! I'm Lila — a recent graduate of the University of Chicago with a degree in Data Science, and a passion for solving high-impact problems at the intersection of analytics, operations, and strategy.
