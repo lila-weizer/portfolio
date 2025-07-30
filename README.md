@@ -18,6 +18,7 @@ Built a model to forecast short-term gold price trends using historical and macr
 ### 2. 📈 Stock Strategy Backtester
 **Type**: Financial Engineering | **Skills**: Data Pipelines, Backtesting, Streamlit  
 Interactive backtesting engine that allows users to simulate and evaluate custom trading strategies. Built with a focus on modularity, realistic assumptions, and user-friendly design.  
+
 ---
 
 ### 3. 🛍️ New Product Strategy for [Favorite Brand]
