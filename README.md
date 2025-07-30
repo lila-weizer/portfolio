@@ -2,7 +2,7 @@
 
 Hi! I'm Lila Weizer — a recent UChicago grad with a degree in Data Science, and a passion for solving high-impact problems at the intersection of analytics, operations, and strategy. This is my personal portfolio full of projects I am actively working on and experimenting with; the current "state" of each project is indicated in the list of featured projects below. 
 
-I started this repo as an attempt to experiment with the skills I picked up at college and continue to build by knowledge and competency in a variety of different fields. These are definitely all works in progress, so I always welcome commentary and feedback. 
+I started this repo as an attempt to strengthen the skills I picked up at college and continue to build my knowledge / competency in a variety of different fields. These are definitely all works in progress, so I always welcome commentary and feedback. 
 
 ---
 
